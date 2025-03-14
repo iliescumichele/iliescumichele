@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michele
-  
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michele
+<br/>
+
 <!--
 <a href="https://github.com/iliescumichele" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,7 +33,7 @@ I love designing systems that are not only light and powerful, but also distribu
 - ❓ Ask me about anything related to front-end development, React.js, TypeScript, or building scalable systems with Node.js and modern web technologies!  
   
 
-- ⚡ Fun fact: I’ve spent more time customizing my IDE than actually writing code. It’s all about that perfect workspace vibe!
+- ⚡ Fun fact: I've spent more time fine-tuning my MacBook than coding; every shortcut and tweak is my secret to staying productive.
 
 
 </td><td valign="top" width="50%">
