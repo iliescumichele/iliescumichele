@@ -22,28 +22,29 @@ I love designing systems that are not only light and powerful, but also distribu
 
 
 ## Rapidfire  
-<table style="border: none;"><tr><td valign="top" width="50%">
+<table style="border: none;">
+  <tr>
+   <td valign="top" width="50%">
+    - 🔭 Actively seeking new exciting projects to collaborate on and help create impactful software.  
+   
+   
+    - 🌱 I’m currently learning the latest advancements in AI and how to integrate it seamlessly into web and mobile applications to deliver more intelligent solutions.
 
-- 🔭 Actively seeking new exciting projects to collaborate on and help create impactful software.  
+   
+    - ❓ Ask me about anything related to front-end development, React.js, TypeScript, or building scalable systems with Node.js and modern web technologies!  
   
 
-- 🌱 I’m currently learning the latest advancements in AI and how to integrate it seamlessly into web and mobile applications to deliver more intelligent solutions.  
-  
-
-- ❓ Ask me about anything related to front-end development, React.js, TypeScript, or building scalable systems with Node.js and modern web technologies!  
-  
-
-- ⚡ Fun fact: I've spent more time fine-tuning my MacBook than coding; every shortcut and tweak is my secret to staying productive.
+    - ⚡ Fun fact: I've spent more time fine-tuning my MacBook than coding; every shortcut and tweak is my secret to staying productive.
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/iliescumichele/iliescumichele/blob/main/gif.gif?raw=true" align="center" height="" width="" />
-</div>  
-
-
-</td></tr></table>  
+  </td>
+  <td valign="top" width="50%">
+    <div align="center" valign="middle">
+      <img src="https://github.com/iliescumichele/iliescumichele/blob/main/gif.gif?raw=true" align="center" height="" width="" />
+    </div>
+  </td>
+  </tr>
+</table>  
 
 <br/>  
 
