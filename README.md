@@ -16,35 +16,34 @@
 I’m a full-stack developer specialized in building efficient, user-focused applications using TypeScript, React, and Node.js. With experience in front-end development for large-scale projects, including AI-driven solutions, I’m passionate about creating impactful software that blends innovation and usability.
 
 I love designing systems that are not only light and powerful, but also distributed and synchronized seamlessly. My passion lies in creating software that is as beautiful as it is effective, ensuring a perfect balance of innovation and practicality. Turning great ideas into scalable, efficient solutions that truly make an impact!  
-  
+
 
 <br/>  
 
 
 ## Rapidfire  
-<table style="border: none;">
-  <tr>
-   <td valign="top" width="50%">
-    - 🔭 Actively seeking new exciting projects to collaborate on and help create impactful software.  
-   
-   
-    - 🌱 I’m currently learning the latest advancements in AI and how to integrate it seamlessly into web and mobile applications to deliver more intelligent solutions.
+<table style="border: none;"><tr><td valign="top" width="50%">
 
-   
-    - ❓ Ask me about anything related to front-end development, React.js, TypeScript, or building scalable systems with Node.js and modern web technologies!  
-  
-
-    - ⚡ Fun fact: I've spent more time fine-tuning my MacBook than coding; every shortcut and tweak is my secret to staying productive.
+- 🔭 Actively seeking new exciting projects to collaborate on and help create impactful software.  
 
 
-  </td>
-  <td valign="top" width="50%">
-    <div align="center" valign="middle">
-      <img src="https://github.com/iliescumichele/iliescumichele/blob/main/gif.gif?raw=true" align="center" height="" width="" />
-    </div>
-  </td>
-  </tr>
-</table>  
+- 🌱 I’m currently learning the latest advancements in AI and how to integrate it seamlessly into web and mobile applications to deliver more intelligent solutions.  
+
+
+- ❓ Ask me about anything related to front-end development, React.js, TypeScript, or building scalable systems with Node.js and modern web technologies!  
+
+
+- ⚡ Fun fact: I've spent more time fine-tuning my MacBook than coding; every shortcut and tweak is my secret to staying productive.
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://github.com/iliescumichele/iliescumichele/blob/main/gif.gif?raw=true" align="center" valign="center" height="" width="" />
+</div>  
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -66,4 +65,3 @@ I love designing systems that are not only light and powerful, but also distribu
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="55" /></a>  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="55" /></a>  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" /></a>  
-</div>  
