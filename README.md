@@ -39,7 +39,7 @@ I love designing systems that are not only light and powerful, but also distribu
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWMxMjg1Znd4enJjNzZrbGt4azN6dDhyemFkYWNibHIwdHpqcjV4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" align="center" height="" width="" />
+<img src="https://github.com/iliescumichele/iliescumichele/blob/main/gif.gif?raw=true" align="center" height="" width="" />
 </div>  
 
 
