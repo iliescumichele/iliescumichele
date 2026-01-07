@@ -36,11 +36,9 @@ I love designing systems that are not only light and powerful, but also distribu
 - ⚡ Fun fact: I've spent more time fine-tuning my MacBook than coding; every shortcut and tweak is my secret to staying productive.
 
 
-</td><td valign="top" width="50%">
+</td><td align="center" valign="center" width="50%">
 
-<div align="center">
-<img src="https://github.com/iliescumichele/iliescumichele/blob/main/gif.gif" align="center" valign="center" height="" width="" />
-</div>  
+<img src="https://github.com/iliescumichele/iliescumichele/blob/main/gif.gif" align="center" height="" width="" />
 
 
 </td></tr></table>  
